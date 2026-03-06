@@ -26,6 +26,9 @@ cd bot-kick
 
 # Instalar dependencias
 npm install
+
+# Instalar las dependencias necesarias
+npm install @retconned/kick-js dotenv
 ```
 ### 3. Configurar credenciales
 Crea un archivo llamado `.env` en la carpeta raíz y añade tus datos siguiendo esta estructura:
