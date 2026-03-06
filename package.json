@@ -1,0 +1,18 @@
+{
+  "name": "kick-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@retconned/kick-js": "^0.5.4",
+    "axios": "^1.13.6",
+    "dotenv": "^17.3.1",
+    "pusher-js": "^8.4.0"
+  }
+}
